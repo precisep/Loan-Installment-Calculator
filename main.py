@@ -6,7 +6,7 @@
     Date: 2023/01/07
     Description: This file is used to launch a minimal streamlit web 
 	application. A financial calculator that estimates the monthly installment that will be paid 
-    for covering the a personal loan.
+    for covering a personal loan.
 
 	For further help with the Streamlit framework, see:
 
