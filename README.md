@@ -3,7 +3,7 @@
 This project demostrates how to build a simple software package and deploy it online using the streamlit framework.
 
 ### Task:
-Create a function that calculates the montly installment of a loan.
+Create a function that calculates the monthly installment of a loan.
 
 ### The formula:
 
