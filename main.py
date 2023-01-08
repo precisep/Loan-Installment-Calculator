@@ -32,9 +32,7 @@ st.set_page_config (page_title = 'Fincial Calculator:  Monthly Installment Estim
 # modify app display
 hide_menu = """
 <style>
-#MainMenu {
-    visibility: hidden;
-    }
+
 
 footer {
     visibility: visible;
