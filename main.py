@@ -66,7 +66,7 @@ def main ():
     with st.form('data_form', clear_on_submit=False):
         principal = st.number_input('ENTER LOAN AMOUNT R')
         period = st.slider('LOAN TERM IN YEARS',1,20)
-        interest_rate = st.slider('ARIABLE INTEREST RATE %', 7.75, 0.25, 25.75)
+        interest_rate = st.slider('VARIABLE INTEREST RATE %', 7.75, 0.25, 25.75)
 
         if st.form_submit_button('Calculate Monthly Installment'):
             st.write('Your Monthly Installment for the loan of R'+str(principal)+ ' is R' +str(monthly_installment(principal,period,interest_rate)))
