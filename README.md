@@ -13,9 +13,9 @@ Create a function that calculates the montly installment of a loan.
 
 ## Demo
 ![DEMO GIF](https://github.com/precisep/Loan-Installment-Calculator/blob/main/assests/demo_final.gif)
-
+![View Demo](https://precisep-loan-installment-calculator-main-b8y5wp.streamlit.app/)
 ## YoutTube Video
-[![YouTube Video](https://img.youtube.com/vi/7O5GQkp5ijc/0.jpg)](https://youtu.be/7O5GQkp5ijc)
+[![YouTube Video](https://img.youtube.com/vi/UqH6KWoLrW8/0.jpg)](https://youtu.be/UqH6KWoLrW8)
 
 
 ## Run the app
