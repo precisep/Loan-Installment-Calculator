@@ -43,7 +43,7 @@ footer:before{
     content:'Copyright (c) 2023: Immensity Holdings';
     display:block;
     position:relative;
-    color:tomato;
+    color:"#D33639";
 }
 <style>
 """
