@@ -12,7 +12,7 @@ Create a function that calculates the montly installment of a loan.
 
 
 ## Demo
-![DEMO GIF](https://raw.githubusercontent.com/precisep/Loan-Installment-Calculator/main/assests/demo.gif)
+![DEMO GIF](https://github.com/precisep/Loan-Installment-Calculator/blob/main/assests/demo.gif)
 
 
 ## Run the app
