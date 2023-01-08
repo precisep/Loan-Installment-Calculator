@@ -10,3 +10,16 @@ Create a function that calculates the montly installment of a loan.
 `A = P(r(1+r)^n)/((1+r)^n-1)`
 
 
+
+## Demo
+![DEMO GIF](https://raw.githubusercontent.com/precisep/Loan-Installment-Calculator/main/assests/demo.gif)
+
+
+## Run the app
+```
+# vanilla terminal
+streamlit run app.py
+
+# quit
+ctrl-c
+```
