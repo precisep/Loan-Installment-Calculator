@@ -63,6 +63,7 @@ def main ():
     st.markdown(hide_menu,unsafe_allow_html=True)
     st.title("Financial Calculator")
     
+    #using strimlit form to collect data from user
     with st.form('data_form', clear_on_submit=False):
         principal = st.number_input('ENTER LOAN AMOUNT R')
         period = st.slider('LOAN TERM IN YEARS',1,20)
